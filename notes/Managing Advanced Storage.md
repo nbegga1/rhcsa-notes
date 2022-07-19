@@ -11,7 +11,7 @@ modified: '2022-07-19T18:40:18.071Z'
 **Note: You do not need to memorize the commands discussed in this chapter for the RHCSA exam. All you really need to remember is `pv`, `vg` and `lv` and `--help`**
 
 
-![](../attachment/Clipboard_2022-07-18-15-39-17.png)
+![](../attachments/Clipboard_2022-07-18-15-39-17.png)
 
 ## Create Physical Volumes (PVs)
 
@@ -93,7 +93,7 @@ modified: '2022-07-19T18:40:18.071Z'
 
   ## Managing VDO Storage
 
-  ![](@attachment/Clipboard_2022-07-19-15-24-51.png)
+  ![](../attachments/Clipboard_2022-07-19-15-24-51.png)
 
 
 
