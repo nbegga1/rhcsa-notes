@@ -55,6 +55,6 @@
   - Modify `/etc/fstab`
   - Add line: `UUID="nnnn" /mounts/data xfs defaults 1 2`
   - Common mount options (use `,` to use multiple options): 
-  ![](../attachments/Clipboard_2022-07-18-12-14-08.png)
+  ![](./attachments/Clipboard_2022-07-18-12-14-08.png)
   - test, without actually rebooting `mount -a`
   - check if it works before and after reboot: `df -h`
