@@ -1,10 +1,3 @@
----
-attachments: [Clipboard_2022-07-18-12-14-08.png]
-title: Managing storage
-created: '2022-07-17T08:30:04.032Z'
-modified: '2022-07-18T11:41:50.900Z'
----
-
 # Managing storage
 
 - List blok storage: `lsblk`
@@ -62,7 +55,7 @@ modified: '2022-07-18T11:41:50.900Z'
   - Modify `/etc/fstab`
   - Add line: `UUID="nnnn" /mounts/data xfs defaults 1 2`
   - Common mount options (use `,` to use multiple options): 
-  ![](@attachment/Clipboard_2022-07-18-12-14-08.png)
+  ![](../attachments/Clipboard_2022-07-18-12-14-08.png)
   - test, without actually rebooting `mount -a`
   - check if it works before and after reboot: `df -h`
 
